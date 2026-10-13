@@ -1,0 +1,6 @@
+{
+  "name": "SmartShop",
+  "description": "Voice-friendly shop management, customer khata, billing, stock, and supplier bill scanner for Indian shopkeepers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
